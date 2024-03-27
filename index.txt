@@ -1,7 +1,4 @@
-Richard Ryan
-
-This is a photographer portfolio html template, made by codewithsadee.
-
+Akinterinwa Oluwanifemi
 
 
 #---------- HEADER ----------#
@@ -30,13 +27,13 @@ My Address
 3287 Indiana Avenue, Waialua, Hawaii
 
 Urgent issue? call us at
-808-561-3846
++234 7026045597
 
 
 
 #---------- HERO ----------#
 
-Richard Ryan
+Akinterinwa Oluwanifemi
 
 Photographer
 Shutterbug
@@ -99,7 +96,7 @@ Health & Wellnes.
 #---------- CATEGORY ----------#
 
 Hi. I’m
-Richard Ryan
+Akinterinwa Oluwanifemi
 
 A passionate
 photograher
@@ -109,7 +106,7 @@ I’m ready to give you my best.
 
 alt = signature
 
-alt = Riachard Ryan
+alt = Akinterinwa Oluwanifemi
 
 
 
